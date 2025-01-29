@@ -12,11 +12,15 @@ margin-right:150px;
 margin-bottom:100px;
 }
 
-.fileimage{
+.fileimagescreen{
 margin-left:auto;
 margin-right:auto;
 margin-top:auto;
 margin-bottom:auto;
+background-color:black;
+/*text specifics*/
+color:white;
+font-size:12;
 }
 
 
