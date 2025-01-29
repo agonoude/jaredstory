@@ -10,11 +10,21 @@ margin-top:100px;
 margin-left:150px;
 margin-right:150px;
 margin-bottom:100px;
+}
 
+.narratortext{
+font-family:Cambria, serif;
+font-size: 16
+}
 
-  
+.jaredtext{
+/*text specifics*/
+font-family: comicsansms;
 
 }
+
+
+
 
 
 .smalljared{
