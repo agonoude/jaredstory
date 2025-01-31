@@ -27,6 +27,21 @@ font-family:Cambria, serif;
 font-size: 16
 }
 
+
+.responsetext{
+font-size:12;
+font-family:times new roman;
+background-color:rgb(46, 44, 44);
+color:white;
+}
+
+.responsetextinterception:hover{
+background-color:rgb(83, 47, 47);
+color:red;
+
+}
+
+
 .jaredtext{
 /*text specifics*/
 font-family: comicsansms;
