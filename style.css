@@ -22,22 +22,38 @@
     margin-bottom:100px;
    }
 
-   .firstpage{
+.backgroundimage1{
     background-image: url('https://github.com/agonoude/jaredstory/blob/main/windowsbackground.png?raw=true');
+
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+body, html {
+    height: 100%;
+  }
+  
+
+
+   .firstpage{
+    
     background-size:cover;
     background-attachment: fixed;
     background-repeat:none;
 }
 
-.bg {
+/*.bg {
     position: fixed; 
     top: 0; 
     left: 0; 
       
     /* Preserve aspet ratio */
-    min-width: 100%;
-    min-height: 100%;
-  }
+  }*/
 
 
 
