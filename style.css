@@ -39,14 +39,41 @@ body, html {
 }
 
 .imgpos1{
-object-position: 500px,;
+object-position: 100px, 100px;
 }
-
 
 .narratortext{
 font-family:Cambria, serif;
 font-size: 16
 }
+
+
+.parentdiv1{
+
+
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .responsetext{
 font-size:12;
@@ -58,7 +85,6 @@ color:white;
 .responsetextint:hover{
 background-color:rgb(83, 47, 47);
 color:red;
-
 }
 
 
