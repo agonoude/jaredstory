@@ -1,8 +1,10 @@
 /*alright*/
 
 .firstpage{
-background-image: url('https://github.com/agonoude/jaredstory/blob/main/windowsbackground.png?raw=true');
-background-size: cover;
+    background-image: url('https://github.com/agonoude/jaredstory/blob/main/windowsbackground.png?raw=true');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
 }
 
 .maintheme{
