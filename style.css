@@ -63,8 +63,8 @@ padding:10%;
 .child {
     display: inline-block;
     border: 1px solid red;
-    width:50%
-    padding: 10%
+    width:50%;
+    padding:10;
     float:left;
   }
   
