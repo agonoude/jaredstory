@@ -20,6 +20,8 @@
     margin-left:150px;
     margin-right:150px;
     margin-bottom:100px;
+    height:100%;
+    width:100%;
    }
 
 body, html {
@@ -50,9 +52,9 @@ font-size: 16
 
 .parentdiv1{
 
+width:100%;
 
 
-    
 }
 
 
