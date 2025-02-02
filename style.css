@@ -1,9 +1,14 @@
 /*alright*/
 
-.firstpage{
-    background-image: url('https://github.com/agonoude/jaredstory/blob/main/windowsbackground.png?raw=true');
-    background-size: cover;
-}
+
+.fileimagescreen{
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:auto;
+    margin-bottom:auto;
+    
+    /*text specifics*/
+    }
 
 .maintheme{
     background-color:black;
@@ -17,21 +22,15 @@
     margin-bottom:100px;
    }
 
-.fileimagescreen{
-margin-left:auto;
-margin-right:auto;
-margin-top:auto;
-margin-bottom:auto;
-
-/*text specifics*/
+   .firstpage{
+    background-image: url('https://github.com/agonoude/jaredstory/blob/main/windowsbackground.png?raw=true');
+    background-size: cover;
 }
-
 
 .narratortext{
 font-family:Cambria, serif;
 font-size: 16
 }
-
 
 .responsetext{
 font-size:12;
