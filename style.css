@@ -1,18 +1,21 @@
 /*alright*/
 
-.maintheme{
-/*background-color:black;*/
-/*text specifics*/
-color:white;
-font-size:12;
-/*margin*/
-margin-top:100px;
-margin-left:150px;
-margin-right:150px;
-margin-bottom:100px;
+.firstpage{
 background-image: url('https://github.com/agonoude/jaredstory/blob/main/windowsbackground.png?raw=true');
 background-size: cover;
 }
+
+.maintheme{
+    background-color:black;
+    /*text specifics*/
+    color:white;
+    font-size:12;
+    /*margin*/
+    margin-top:100px;
+    margin-left:150px;
+    margin-right:150px;
+    margin-bottom:100px;
+   }
 
 .fileimagescreen{
 margin-left:auto;
