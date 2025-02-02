@@ -29,6 +29,18 @@
     background-repeat:none;
 }
 
+.bg {
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+      
+    /* Preserve aspet ratio */
+    min-width: 100%;
+    min-height: 100%;
+  }
+
+
+
 .narratortext{
 font-family:Cambria, serif;
 font-size: 16
