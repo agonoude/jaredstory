@@ -64,7 +64,7 @@ padding:10%;
 .child {
     display: inline-block;
     border: 1px solid red;
-    width:50%;
+    width:40%;
     padding:10%;
     float: left;
   }
