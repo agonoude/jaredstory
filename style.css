@@ -22,10 +22,11 @@
     margin-bottom:100px;
    }
 
-   body, html {
+body, html {
     height: 100%;
   }
-.backgroundimage1{
+
+  .backgroundimage1{
     background-image: url('https://github.com/agonoude/jaredstory/blob/main/windowsbackground.png?raw=true');
 
     height: 100%;
@@ -41,16 +42,6 @@
 margin-left:500px;
 margin-top:500px;
 }
-  
-
-.firstpage{
-    
-    background-size:cover;
-    background-attachment: fixed;
-    background-repeat:none;
-}
-
-
 
 
 .narratortext{
