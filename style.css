@@ -39,8 +39,7 @@ body, html {
 }
 
 .imgpos1{
-left:500px;
-bottom:500px;
+object-position: 500px,500px;
 }
 
 
