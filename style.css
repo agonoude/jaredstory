@@ -58,8 +58,9 @@ font-size: 16
 .float-parent-element { 
         display:flex;
         justify-content: space-around;
-        background-color: DodgerBlue;
+        background-color: skyblue;
         width:250px;
+        margin:auto;
 } 
 
 /*response tags*/
@@ -68,10 +69,8 @@ font-size: 16
     background-color: blueviolet;
     width:100px;
     margin:10px;
-    text-align: center;
     line-height: 20px;
     position:relative;
-    font-size: 12;
 
      /*text information*/
      text-align: center;
@@ -86,10 +85,7 @@ font-size: 16
         background-color: red;
         width: 100px;
         margin: 10px;
-        text-align: center;
         line-height: 20px;
-        font-size: 12;
-
 
     /*text information*/
     text-align: center;
