@@ -131,4 +131,21 @@ background-color: red;
 }
 
 
+/*test for hover function*/
+
+.divtest {
+    background-color: yellow;
+    padding: 20px;
+    display: none;
+  }
+    
+  span:hover + .divtest {
+    display: block;
+  }
+
+
+
+
+
+
 
