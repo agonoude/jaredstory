@@ -139,7 +139,7 @@ background-color: red;
     display: none;
   }
     
-  span:hover + .divtest {
+  .divtest2:hover + .divtest {
     display: block;
   }
 
