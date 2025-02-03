@@ -114,7 +114,7 @@ overflow: hidden; /* Ensures the content is not revealed until the animation */
 /*test for hover function*/
 
 .divtest {
-    background-color: rgb(41, 188, 41);
+    background-color: rgb(41, 132, 188);
     padding: 20px;
     display: none;
   }
