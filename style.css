@@ -262,37 +262,19 @@ animation: ani1 1s infinite;
     
 @keyframes ani1{
     0%{
-        opacity:0;
-    }
-    15%{
         opacity:1;
-    }
-    30%{
-        opacity:0;
     }
 }
 
 @keyframes ani2{
     30%{
-        opacity:0;
-    }
-    45%{
         opacity:1;
-    }
-    60%{
-        opacity:0;
     }
 }
 
 @keyframes ani3{
     60%{
-        opacity:0;
-    }
-    80%{
         opacity:1;
-    }
-    100%{
-        opacity:0;
     }
 }
 
