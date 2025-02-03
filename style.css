@@ -83,7 +83,7 @@ font-size: 16
 
 /*wrong response*/
 .noresponse { 
-        background-color: rgb(149, 74, 87);
+        background-color: rgb(76, 7, 18);
         width: 200px;
         margin: 10px;
         position:relative;
@@ -101,7 +101,7 @@ font-size: 16
 /*test for hover function*/
 
 .divtest {
-    background-color: rgb(139, 208, 139);
+    background-color: rgb(41, 188, 41);
     padding: 20px;
     display: none;
   }
