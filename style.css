@@ -207,6 +207,27 @@ background-color: red;
 /*jared dance done do not touch anything above this*/
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .spanawayface:before{
     content:'';
     animation:jaredwalkawayface 120s;
@@ -231,7 +252,7 @@ background-color: red;
         content:'\005C\005C :  |';
     }
     50%{
-        content: ' |    //';
+        content: '  |    //';
     }
     100%{
         content: ' |    //';}
