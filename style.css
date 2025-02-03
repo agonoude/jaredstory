@@ -189,12 +189,12 @@ background-color: red;
 
 /*sigh*/
 .divtest3 {
-    background-color: purple;
+    background-color: rgb(83, 145, 111);
     padding: 20px;
     display: none;
   }
     
-  .divtest4:hover + .divtest {
+  .divtest4:hover + .divtest3 {
     display: block;
   }
 
