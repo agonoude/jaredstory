@@ -229,7 +229,7 @@ top:45%;
 left:50%;
 transform:translate(-50%,-50%);
 width:100%;
-color:#9c6357;
+color:#7a7324;
 }
 
 .banner-text h2{
@@ -290,7 +290,7 @@ animation: ani1 7s infinite;
 
 .spantest:before{
     content:'';
-    animation:jareddance infinite 8s;
+    animation:jareddance infinite 30s;
 }
 
 @keyframes jareddance {
