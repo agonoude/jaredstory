@@ -247,25 +247,13 @@ background-color: red;
 
 
 
-.lightswitchoff{
-display:none;
-animation:lightswitchon 60s;
-animation-fill-mode:forwards;
-
+.lightswitchoff{       
+        overflow: hidden; /* Ensures the content is not revealed until the animation */
+animation: lighton 1s steps(100000000000, end);
 }
-
-@keyframes lightswitchon{
-
-    0%{
-display:none;
-    }
-
-    100%{
-
-        display:block;
-    }
-
-}
-
-
-
+          
+/* The typing effect */
+ @keyframes lighton {
+            from { width: 0 }
+            to { width: 100% }
+          }
