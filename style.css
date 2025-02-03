@@ -66,10 +66,9 @@ font-size: 16
 /*response tags*/
 
 .yesresponse { 
-    background-color: blueviolet;
-    width:100px;
+    background-color: seagreen;
+    width:200px;
     margin:10px;
-    line-height: 20px;
     position:relative;
 
      /*text information*/
@@ -83,9 +82,8 @@ font-size: 16
 
 .noresponse { 
         background-color: red;
-        width: 100px;
+        width: 200px;
         margin: 10px;
-        line-height: 20px;
 
     /*text information*/
     text-align: center;
