@@ -289,8 +289,8 @@ animation: ani1 7s infinite;
 }
 
 .spantest:before{
-    content:'';
-    animation:jareddance infinite 30s;
+    content:'\005C\005C  / \005C \005C\';
+    animation:jareddance infinite 120s;
 }
 
 @keyframes jareddance {
@@ -303,7 +303,7 @@ animation: ani1 7s infinite;
     }
 
     50%{
-        content: '//  / \005C //';
+        content: '//  / \005C  //';
     }
 
     75%{content:'\005C\005C  / \005C\005C //'}
