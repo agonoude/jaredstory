@@ -229,7 +229,7 @@ top:45%;
 left:50%;
 transform:translate(-50%,-50%);
 width:100%;
-color:#234b86;
+color:#533110;
 }
 
 .banner-text h2{
@@ -249,15 +249,15 @@ text-align:center;
 }
 
 .b1{
-animation: ani1 5s infinite;
+animation: ani1 15s infinite;
 }
 
 .b2{
-    animation: ani2 5s infinite;
+    animation: ani2 15s infinite;
 }
     
 .b3{
-    animation: ani3 5s infinite;
+    animation: ani3 15s infinite;
 }
     
 @keyframes ani1{
