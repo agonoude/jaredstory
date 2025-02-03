@@ -229,7 +229,7 @@ top:45%;
 left:50%;
 transform:translate(-50%,-50%);
 width:100%;
-color:#533110;
+color:#579c8c;
 }
 
 .banner-text h2{
@@ -249,24 +249,24 @@ text-align:center;
 }
 
 .b1{
-animation: ani1 15s infinite;
+animation: ani1 7s infinite;
 }
 
 .b2{
-    animation: ani2 15s infinite;
+    animation: ani2 7s infinite;
 }
     
 .b3{
-    animation: ani3 15s infinite;
+    animation: ani3 7s infinite;
 }
     
 @keyframes ani1{
     0%{
         opacity:1;
     }
-    30%{
+   /* 30%{
         opacity:0;
-    }
+    }*/
 
 }
 
@@ -274,18 +274,18 @@ animation: ani1 15s infinite;
     30%{
         opacity:1;
     }
-    60%{
+   /* 60%{
         opacity:0;
-    }
+    }*/
 }
 
 @keyframes ani3{
     60%{
         opacity:1;
     }
-    100%{
+    /*100%{
         opacity:0;
-    }
+    }*/
 }
 
 
