@@ -209,7 +209,7 @@ background-color: red;
 
 .spanawayface:before{
     content:'';
-    animation:jareddjaredwalkawayface 120s;
+    animation:jaredwalkawayface 120s;
 }
 @keyframes jaredwalkawayface {
     0%{
@@ -239,7 +239,7 @@ background-color: red;
 
 .spanawaybody2:before{
     content:'';
-    animation:jaredwalkwaybody2 120s;
+    animation:jaredwalkawaybody2 120s;
 }
 @keyframes jaredwalkawaybody2 {
     0%{
