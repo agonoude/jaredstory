@@ -207,6 +207,72 @@ background-color: red;
 /*jared dance done do not touch anything above this*/
 
 
+.spanawayface:before{
+    content:'';
+    animation:jareddance 10s;
+}
+@keyframes jaredwalkawayface {
+    0%{
+        content:'\005C\005C(o.o)//';
+    }
+    50%{
+        content: '\005C\005C(   )//';
+    }
+    100%{
+        content: '\005C\005C(   )//';}
+}
+
+.spanawaybody1:before{
+    content:'';
+    animation:jareddance 10s;
+}
+@keyframes jaredwalkawaybody1 {
+    0%{
+        content:'\005C\005C :  |';
+    }
+    50%{
+        content: '|    //';
+    }
+    100%{
+        content: '|    //';}
+}
+
+
+.spanawaybody2:before{
+    content:'';
+    animation:jareddance 10s;
+}
+@keyframes jaredwalkawaybody2 {
+    0%{
+        content:'| ;  |';
+    }
+    50%{
+        content: '|    |';
+    }
+    100%{
+        content: '|    |';}
+}
+
+
+
+
+
+
+
+
+/*
+face here
+ \\(o.o)//
+  \\ :  |
+   | ;  |
+/*
+
+/*
+away face
+ \\(   )//
+  |    //
+  |    |
+*/
 
 /*test?*/
 
