@@ -229,7 +229,7 @@ top:45%;
 left:50%;
 transform:translate(-50%,-50%);
 width:100%;
-color:#7a246e;
+color:#593354;
 }
 
 .banner-text h2{
@@ -289,13 +289,13 @@ animation: ani1 7s infinite;
 }
 
 .spantest:before{
-    content:'\005C\005C  / \005C \005C\';
-    animation:jareddance infinite 120s;
+    content:'';
+    animation:jareddance infinite 60s;
 }
 
 @keyframes jareddance {
     0%{
-        content:'\005C\005C  / \005C \005C\';
+        content:'\005C\005C  \002F \005C \005C\';
     }
 
     25%{
