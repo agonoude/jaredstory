@@ -170,18 +170,6 @@ background-color: red;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 /*jared dancing*/
 .spantest:before{
     content:'';
@@ -206,31 +194,10 @@ background-color: red;
 }
 /*jared dance done do not touch anything above this*/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/*jared walking away to get tom do not touch */
 .spanawayface:before{
     content:'';
-    animation:jaredwalkawayface 120s;
+    animation:jaredwalkawayface 45s;
 }
 @keyframes jaredwalkawayface {
     0%{
@@ -273,36 +240,5 @@ background-color: red;
         content: ' |    |';}
 }
 
-
-
-
-
-
-
-
-/*
-face here
- \\(o.o)//
-  \\ :  |
-   | ;  |
-/*
-
-/*
-away face
- \\(   )//
-  |    //
-  |    |
-*/
-
-/*test?*/
-
-
-
-
-
-
-
-
-
-
+/*jared walking away to get tom do not touch */
 
