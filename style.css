@@ -229,7 +229,7 @@ top:45%;
 left:50%;
 transform:translate(-50%,-50%);
 width:100%;
-color:#6e8ec0;
+color:#c06ea1;
 }
 
 .banner-text h2{
@@ -295,20 +295,20 @@ animation: ani1 7s infinite;
 
 @keyframes jareddance {
     0%{
-        content:'\005C\005C  \002F \005C \005C\ ';
+        content:'\005C\005C   \002F  \005C \005C\ ';
     }
 
     25%{
-        content: '// / \005C  \005C\005C';
+        content: ' // / \005C  \005C\005C';
     }
 
     50%{
-        content: ' // / \005C   //';
+        content: '  // / \005C   //';
     }
 
-    75%{content:'\005C\005C  / \005C   //'}
+    75%{content:'\005C\005C   /  \005C   //'}
 
-    100%{content:'\005C\005C / \005C   //'}
+    100%{content:'\005C\005C  /  \005C   //'}
 }
 
 /*test?*/
