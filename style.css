@@ -244,3 +244,14 @@ background-color: red;
 }
 
 /*jared walking away to get tom do not touch */
+
+
+
+/*toms shelf*/
+.backgroundimage2{
+    background-image: url('https://github.com/agonoude/jaredstory/blob/main/tomsportal.gif?raw=true');
+    height: 100%;    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
