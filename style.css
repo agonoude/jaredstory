@@ -70,6 +70,14 @@ font-size: 16
     text-align: center;
     line-height: 20px;
     font-size: 12;
+
+     /*text information*/
+     text-align: center;
+     font-size:12;
+     font-family:times new roman;
+    /** background-color:rgb(46, 44, 44);**/
+     color:white;
+
 }
 
 .noresponse { 
@@ -79,6 +87,14 @@ font-size: 16
         text-align: center;
         line-height: 20px;
         font-size: 12;
+
+
+    /*text information*/
+    text-align: center;
+    font-size:12;
+    font-family:times new roman;
+   /** background-color:rgb(46, 44, 44);**/
+    color:white;
 }
 
 
