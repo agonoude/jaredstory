@@ -201,7 +201,7 @@ background-color: red;
 /*jared dancing*/
 .spantest:before{
     content:'';
-    animation:jareddance infinite 3s;
+    animation:jareddance infinite 1s;
 }
 
 @keyframes jareddance {
