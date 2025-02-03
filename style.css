@@ -59,14 +59,14 @@ font-size: 16
         display:flex;
         justify-content: space-evenly;
         background-color: skyblue;
-        width:250px;
+        width:400px;
         margin:auto;
 } 
 
 /*response tags*/
 
 .yesresponse { 
-    background-color: seagreen;
+    background-color: purple;
     width:200px;
     margin:10px;
     position:relative;
