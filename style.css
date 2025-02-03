@@ -197,7 +197,7 @@ background-color: red;
 /*jared walking away to get tom do not touch */
 .spanawayface:before{
     content:'';
-    animation:jaredwalkawayface 45s;
+    animation:jaredwalkawayface 30s;
     animation-fill-mode: forwards;
 }
 @keyframes jaredwalkawayface {
@@ -213,7 +213,7 @@ background-color: red;
 
 .spanawaybody1:before{
     content:'';
-    animation:jaredwalkawaybody1 45s;
+    animation:jaredwalkawaybody1 30s;
     animation-fill-mode: forwards;
 }
 @keyframes jaredwalkawaybody1 {
@@ -224,12 +224,12 @@ background-color: red;
         content: '  |    //';
     }
     100%{
-        content: ' |    //';}
+        content: '  |    //';}
 }
 
 .spanawaybody2:before{
     content:'';
-    animation:jaredwalkawaybody2 45s;
+    animation:jaredwalkawaybody2 30s;
     animation-fill-mode: forwards;
 }
 @keyframes jaredwalkawaybody2 {
