@@ -249,6 +249,21 @@ background-color: red;
 
 .lightswitchoff{
 display:none;
+animation:lightswitchon 60s;
+animation-fill-mode:forwards;
+
+}
+
+@keyframes lightswitchon{
+
+    0%{
+display:none;
+    }
+
+    100%{
+
+        display:block;
+    }
 
 }
 
