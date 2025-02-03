@@ -59,7 +59,7 @@ font-size: 16
         display:flex;
         justify-content: space-evenly;
         background-color: skyblue;
-        width:400px;
+        width:100%;
         margin:auto;
 } 
 
@@ -83,7 +83,7 @@ font-size: 16
 
 /*wrong response*/
 .noresponse { 
-        background-color: rgb(148, 139, 141);
+        background-color: rgb(169, 25, 56);
         width: 200px;
         margin: 10px;
         position:relative;
