@@ -1,6 +1,4 @@
 /*alright*/
-
-
 .fileimagescreen{
     margin-left:auto;
     margin-right:auto;
@@ -10,6 +8,7 @@
     /*text specifics*/
     }
 
+/*main body set up for the jaredpage#*/
 .maintheme{
     background-color:black;
     /*text specifics*/
@@ -22,36 +21,31 @@
     margin-bottom:100px;
 
    }
-
+/*needed for some reason*/
 body,html{
 height:100%;
 width:100%;
 }
 
+/*background image for front page*/
   .backgroundimage1{
     background-image: url('https://github.com/agonoude/jaredstory/blob/main/windowsbackground.png?raw=true');
-
-    height: 100%;
-
-    /* Center and scale the image nicely */
-    
+    height: 100%;    
     background-repeat: no-repeat;
     background-size: cover;
-
 }
 
+/*file image positioning on page 1*/
 .imgpos1{
     margin-top:100px;
     margin-left:150px;
 }
 
+/*text information for jaredpages*/
 .narratortext{
 font-family:Cambria, serif;
 font-size: 16
 }
-
-
-
 
 
 .float-parent-element { 
@@ -72,15 +66,6 @@ font-size: 16
     background-color: yellow; 
 }
 
-.parentdiv1{
-width:50%;
-}
-
-.child {
-    border: 1px solid red;
-    float: left;
-    width:50%;
-  }
   
 
 
