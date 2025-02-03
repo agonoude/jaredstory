@@ -71,7 +71,7 @@ overflow: hidden; /* Ensures the content is not revealed until the animation */
 .float-parent-element { 
         display:flex;
         justify-content: space-evenly;
-        background-color: skyblue;
+        background-color: rgb(41, 145, 186);
         width:700px;
         margin:auto;
 } 
