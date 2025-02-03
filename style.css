@@ -83,7 +83,7 @@ font-size: 16
 
 /*wrong response*/
 .noresponse { 
-        background-color: rgb(76, 7, 18);
+        background-color: rgb(148, 139, 141);
         width: 200px;
         margin: 10px;
         position:relative;
