@@ -57,7 +57,7 @@ font-size: 16
 /*child div boxes*/
 .float-parent-element { 
         display:flex;
-        justify-content: space-around;
+        justify-content: space-evenly;
         background-color: skyblue;
         width:250px;
         margin:auto;
@@ -81,10 +81,10 @@ font-size: 16
 }
 
 .noresponse { 
-        background-color: red;
+        background-color: pink;
         width: 200px;
         margin: 10px;
-
+        position:relative;
     /*text information*/
     text-align: center;
     font-size:12;
