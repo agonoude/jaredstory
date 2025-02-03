@@ -72,19 +72,14 @@ font-size: 16
     background-color: yellow; 
 }
 
-
-
-
-
 .parentdiv1{
-padding:10%;
+width:50%;
 }
 
 .child {
     border: 1px solid red;
-    width:40%;
-    padding:10%;
     float: left;
+    width:50%;
   }
   
 
