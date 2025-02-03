@@ -61,14 +61,27 @@ font-size: 16
         background-color: DodgerBlue;
 } 
 
-/*left response*/
-.response { 
-    background-color: #f1f1f1;
-    width: 100px;
-    margin: 10px;
+/*response tags*/
+
+.yesresponse { 
+    background-color: green;
+    width:100px;
+    margin:10px;
     text-align: center;
     line-height: 20px;
     font-size: 12;
+}
+
+.noresponse { 
+        background-color: red;
+        width: 100px;
+        margin: 10px;
+        text-align: center;
+        line-height: 20px;
+        font-size: 12;
+}
+
+
 
     /*background-color: green; 
     margin-left: 50%; 
@@ -83,7 +96,7 @@ font-size: 16
 
 
 
-} 
+
 
 /*right response*/
 .noresponse{ 
