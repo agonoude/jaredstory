@@ -229,7 +229,7 @@ top:45%;
 left:50%;
 transform:translate(-50%,-50%);
 width:100%;
-color:#efe3f3;
+color:#0e3a49;
 }
 
 .banner-text h2{
@@ -306,7 +306,7 @@ animation: ani1 7s infinite;
         content: '  // / \005C   //';
     }
 
-    75%{content:' \005C\005C  \002F  \005C  //'}
+    75%{content:'\005C\005C  \002F   \005C  //'}
 
 }
 
