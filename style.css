@@ -177,7 +177,7 @@ background-color: red;
 /*test for hover function*/
 
 .divtest {
-    background-color: purple;
+    background-color: green;
     padding: 20px;
     display: none;
   }
@@ -185,6 +185,24 @@ background-color: red;
   .divtest2:hover + .divtest {
     display: block;
   }
+
+
+/*sigh*/
+.divtest3 {
+    background-color: green;
+    padding: 20px;
+    display: none;
+  }
+    
+  .divtes4:hover + .divtest {
+    display: block;
+  }
+
+
+
+/*animation trial area*/
+
+
 
 
 
