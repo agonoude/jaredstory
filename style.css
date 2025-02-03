@@ -229,7 +229,7 @@ top:45%;
 left:50%;
 transform:translate(-50%,-50%);
 width:100%;
-color:#115c0a;
+color:#234b86;
 }
 
 .banner-text h2{
@@ -264,17 +264,27 @@ animation: ani1 1s infinite;
     0%{
         opacity:1;
     }
+    30%{
+        opacity:0;
+    }
+
 }
 
 @keyframes ani2{
     30%{
         opacity:1;
     }
+    60%{
+        opacity:0;
+    }
 }
 
 @keyframes ani3{
     60%{
         opacity:1;
+    }
+    100%{
+        opacity:0;
     }
 }
 
