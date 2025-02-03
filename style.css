@@ -65,7 +65,16 @@ font-size: 16
     background-color: green; 
     margin-left: 50%; 
     height: 100px; 
+    
+    /*text information*/
     text-align: center;
+    font-size:12;
+    font-family:times new roman;
+   /** background-color:rgb(46, 44, 44);**/
+    color:white;
+
+
+
 } 
 
 /*right response*/
@@ -73,17 +82,24 @@ font-size: 16
     margin-left: 50%; 
     height: 100px; 
     background-color: red; 
-    text-align:center;
+
+    /*text information*/
+    text-align: center;
+    font-size:12;
+    font-family:times new roman;
+   /** background-color:rgb(46, 44, 44);**/
+    color:white;
+
 }
 
 
 /*test for response text*/
-.responsetext{
+/*.responsetext{
 font-size:12;
 font-family:times new roman;
 background-color:rgb(46, 44, 44);
 color:white;
-}
+}*/
 
 .responsetextint:hover{
 background-color:rgb(83, 47, 47);
