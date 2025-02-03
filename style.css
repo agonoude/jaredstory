@@ -249,7 +249,7 @@ background-color: red;
 }
 @keyframes jaredwalkawaybody1 {
     0%{
-        content:'\005C\005C :  |';
+        content:'\005C\005C  :  |';
     }
     50%{
         content: '  |    //';
@@ -264,7 +264,7 @@ background-color: red;
 }
 @keyframes jaredwalkawaybody2 {
     0%{
-        content:'| ;  |';
+        content:'|  ;  |';
     }
     50%{
         content: '|    |';
