@@ -295,20 +295,20 @@ animation: ani1 7s infinite;
 
 @keyframes jareddance {
     0%{
-        content:'\\\  / \\ \\\';
+        content:'\005C\005C  / \005C \005C\';
     }
 
     25%{
-        content: '//  / \\ \\\';
+        content: '//  / \005C \005C\005C';
     }
 
     50%{
-        content: '//  / \\ //';
+        content: '//  / \005C //';
     }
 
-    75%{content:'\\\  / \\ //'}
+    75%{content:'\005C\005C  / \005C\005C //'}
 
-    100%{content:'\\\ / \\ //'}
+    100%{content:'\005C\005C / \005C //'}
 }
 
 /*test?*/
