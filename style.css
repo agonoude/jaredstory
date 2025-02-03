@@ -307,6 +307,8 @@ animation: ani1 7s infinite;
     }
 
     75%{content:'\\  / \ //'}
+
+    100%{content:'\\ / \ //'}
 }
 
 /*test?*/
