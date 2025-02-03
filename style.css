@@ -306,7 +306,7 @@ animation: ani1 7s infinite;
         content: '  // / \005C   //';
     }
 
-    75%{content:'\005C\005C   \002F   \005C  //'}
+    75%{content:' \005C\005C   \002F   \005C  //'}
 
 }
 
