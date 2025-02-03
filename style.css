@@ -50,12 +50,12 @@ font-size: 16
 /*response tags for player*/
 
 /*parent div boxes*/
-.float-parent-element { 
+/*.float-parent-element { 
     width: 50%; 
-} 
+}/*
 
 /*child div boxes*/
-.float-child-element { 
+.float-parent-element { 
         display:flex;
         justify-content: space-around;
         background-color: DodgerBlue;
@@ -67,8 +67,8 @@ font-size: 16
     width: 100px;
     margin: 10px;
     text-align: center;
-    line-height: 75px;
-    font-size: 30px;
+    line-height: 20px;
+    font-size: 12;
 
     /*background-color: green; 
     margin-left: 50%; 
