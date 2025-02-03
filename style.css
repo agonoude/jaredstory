@@ -65,6 +65,7 @@ font-size: 16
 
 /*response tags*/
 
+/*correct response*/
 .yesresponse { 
     background-color: rgb(117, 146, 115);
     width:200px;
@@ -80,6 +81,7 @@ font-size: 16
 
 }
 
+/*wrong response*/
 .noresponse { 
         background-color: pink;
         width: 200px;
@@ -95,16 +97,6 @@ font-size: 16
 
 
 
-    /*background-color: green; 
-    margin-left: 50%; 
-    height: 100px; 
-    
-    /*text information*/
-   /* text-align: center;
-    font-size:12;
-    font-family:times new roman;
-   /** background-color:rgb(46, 44, 44);**/
- /*   color:white; */
 
 /*test for hover function*/
 
@@ -113,7 +105,7 @@ font-size: 16
     padding: 20px;
     display: none;
   }
-    
+
   .divtest2:hover + .divtest {
     display: block;
   }
@@ -124,44 +116,9 @@ font-size: 16
 
 
 
-/*right response*/
-.noresponse{ 
-    margin-left: 50%; 
-    height: 100px; 
-    background-color: red; 
-
-    /*text information*/
-    text-align: center;
-    font-size:12;
-    font-family:times new roman;
-   /** background-color:rgb(46, 44, 44);**/
-    color:white;
-
-}
 
 
 
-
-
-
-
-
-
-
-
-
-/*test for response text*/
-/*.responsetext{
-font-size:12;
-font-family:times new roman;
-background-color:rgb(46, 44, 44);
-color:white;
-}*/
-
-.responsetextint:hover{
-background-color:rgb(83, 47, 47);
-color:red;
-}
 
 /*jared text*/
 .jaredtext{
