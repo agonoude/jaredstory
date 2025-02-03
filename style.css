@@ -20,13 +20,10 @@
     margin-left:150px;
     margin-right:150px;
     margin-bottom:100px;
-    height:100%;
-    width:100%;
+
    }
 
-body, html {
-    height: 100%;
-  }
+
 
   .backgroundimage1{
     background-image: url('https://github.com/agonoude/jaredstory/blob/main/windowsbackground.png?raw=true');
