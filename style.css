@@ -189,7 +189,7 @@ background-color: red;
 
 /*sigh*/
 .divtest3 {
-    background-color: rgb(83, 145, 111);
+    background-color: rgb(83, 105, 145);
     padding: 20px;
     display: none;
   }
@@ -290,7 +290,7 @@ animation: ani1 7s infinite;
 
 .spantest:before{
     content:'';
-    animation:jareddance infinite 60s;
+    animation:jareddance infinite 30s;
 }
 
 @keyframes jareddance {
@@ -306,9 +306,9 @@ animation: ani1 7s infinite;
         content: '  // / \005C   //';
     }
 
-    75%{content:' \005C\005C  /  \005C   //'}
+    75%{content:' \005C\005C   / \005C   //'}
 
-    100%{content:' \005C\005C /  \005C   //'}
+    100%{content:' \005C\005C  / \005C   //'}
 }
 
 /*test?*/
