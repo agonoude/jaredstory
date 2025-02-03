@@ -47,45 +47,37 @@ font-family:Cambria, serif;
 font-size: 16
 }
 
+/*response tags for player*/
 
+/*parent div boxes*/
 .float-parent-element { 
     width: 50%; 
 } 
+
+/*child div boxes*/
 .float-child-element { 
     float: left; 
     width: 50%; 
 } 
-.red { 
-    background-color: red; 
+
+/*left response*/
+.yesresponse { 
+    background-color: green; 
     margin-left: 50%; 
     height: 100px; 
+    text-align: center;
 } 
-.yellow { 
+
+/*right response*/
+.noresponse{ 
     margin-left: 50%; 
     height: 100px; 
-    background-color: yellow; 
+    background-color: red; 
+    text-align:center;
 }
 
-  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/*test for response text*/
 .responsetext{
 font-size:12;
 font-family:times new roman;
@@ -98,7 +90,7 @@ background-color:rgb(83, 47, 47);
 color:red;
 }
 
-
+/*jared text*/
 .jaredtext{
 /*text specifics*/
 font-family: comicsansms;
@@ -113,12 +105,11 @@ background-color: red;
 }*/
 
 
-
+/*jared ascii figure*/
 .smalljared{
-
-/*font*/
-font-size:16;
-text-align:center;
+    /*font*/
+    font-size:16;
+    text-align:center;
 
 
 }
